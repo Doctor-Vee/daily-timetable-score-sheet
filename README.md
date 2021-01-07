@@ -1,9 +1,10 @@
 # daily-timetable-score-sheet
 
 This is simply a repo for documenting the percentage completion for the tasks I set out to do daily   
+
 ---
 You use this for quick committing and pushing  
-git add . && git commit -m "updateish" && git push
+git add . && git commit -m "updateish" && git push  
 ---
 ### 2021
 
