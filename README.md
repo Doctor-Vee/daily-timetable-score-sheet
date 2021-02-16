@@ -3,7 +3,7 @@
 This is simply a repo for documenting the percentage completion for the tasks I set out to do daily   
 
 ---
-git add . && git commit -m "updateish" && git push  
+git add . && git commit -m "update-ish" && git push  
 
 ---
 ### 2021
