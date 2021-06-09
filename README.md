@@ -1,6 +1,6 @@
 # daily-timetable-score-sheet
 
-This is simply a repo for documenting the percentage completion for the tasks I set out to do daily   
+This is simply a record-keeping repo for documenting the percentage completion for the tasks I set out to do daily   
 
 ---
 git add . && git commit -m "update-ish" && git push  
