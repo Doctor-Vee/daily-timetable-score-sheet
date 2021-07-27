@@ -214,6 +214,7 @@ Thursday - 22/07 - Tasks (9/10) = 90%
 Friday - 23/07 - Tasks (9/10) = 90%  
 Saturday - 24/07 - Tasks (10/10) = 100%  
 Sunday - 25/07 - Tasks (7/7) = 100%  
+Monday - 26/07 - Tasks (9/10) = 90%  
 
 
 
