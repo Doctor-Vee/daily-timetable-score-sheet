@@ -220,7 +220,7 @@ Wednesday - 28/07 - Tasks (9/10) = 90%
 Thursday - 29/07 - Tasks (12/14) = 86%  
 Friday - 30/07 - Tasks (9/11) = 82%  
 Saturday - 31/07 - Tasks (9/11) = 82%  
-
+Sunday - 01/08 - Tasks (9/10) = 90%  
 
 
 
