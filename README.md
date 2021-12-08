@@ -345,6 +345,8 @@ Tuesday - 30/11 - Tasks (11/12) = 92%
 Wednesday - 01/12 - Tasks (10/12) = 83%  
 Thursday - 02/12 - Tasks (12/13) = 92%  
 Friday - 03/12 - Tasks (10/12) = 83%  
+Saturday - 04/12 - Tasks (10/12) = 83%  
+Sunday - 05/12 - Tasks (9/10) = 90%  
 
 
 
