@@ -33,5 +33,7 @@ Sunday - 23/01 - Tasks (11/13) = 85%
 Monday - 24/01 - Tasks (11/13) = 85%  
 Tuesday - 25/01 - Tasks (12/14) = 86%  
 Wednesday - 26/01 - Tasks (11/13) = 85%  
+Thursday - 27/01 - Tasks (9/10) = 90%  
+
 
 
