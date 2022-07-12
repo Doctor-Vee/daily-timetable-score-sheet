@@ -196,6 +196,7 @@ Tuesday - 05/07 - Tasks (15/16) = 94%
 Wednesday - 06/07 - Tasks (14/15) = 93%  
 Thursday - 07/07 - Tasks (12/14) = 86%  
 Friday - 08/07 - Tasks (13/15) = 87%  
+Saturday - 09/07 - Tasks (10/11) = 91%  
 
 
 
