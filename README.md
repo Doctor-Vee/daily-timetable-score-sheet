@@ -291,6 +291,7 @@ Friday - 07/10 - Tasks (11/12) = 92%
 Saturday - 08/10 - Tasks (9/10) = 90%  
 Sunday - 09/10 - Tasks (10/11) = 91%  
 Monday - 10/10 - Tasks (9/10) = 90%  
+Tuesday - 11/10 - Tasks (11/13) = 85%  
 
 
 
