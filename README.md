@@ -341,6 +341,7 @@ Saturday - 26/11 - Tasks (7/8) = 88%
 Sunday - 27/11 - Tasks (8/9) = 89%  
 Monday - 28/11 - Tasks (10/12) = 83%  
 Tuesday - 29/11 - Tasks (12/13) = 92%  
+Wednesday - 30/11 - Tasks (8/9) = 89%  
 
 
 
