@@ -223,6 +223,7 @@ Monday - 31/07 - Tasks (11/13) = 85%
 Tuesday - 01/08 - Tasks (12/14) = 86%  
 Wednesday - 02/08 - Tasks (14/15) = 93%  
 Thursday - 03/08 - Tasks (12/14) = 86%  
+Friday - 04/08 - Tasks (12/14) = 86%  
 
 
 
