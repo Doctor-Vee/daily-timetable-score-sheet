@@ -334,9 +334,11 @@ Sunday - 19/11 - Tasks (15/15) = 100%
 Monday - 20/11 - Tasks (12/14) = 86%  
 Tuesday - 21/11 - Tasks (14/16) = 88%  
 Wednesday - 22/11 - Tasks (14/16) = 88%  
-Thursday - 23/11 - Tasks (12/14) = 86%  
+Thursday - 23/11 - Tasks (13/14) = 93%  
 Friday - 24/11 - Tasks (11/13) = 85%  
 Saturday - 25/11 - Tasks (9/10) = 90%  
+Sunday - 26/11 - Tasks (10/11) = 91%  
+Monday - 27/11 - Tasks (12/14) = 86%  
 
 
 ---
