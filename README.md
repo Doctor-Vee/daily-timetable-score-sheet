@@ -9,6 +9,8 @@ git add . && git commit -m ":sparkles: update-ish" && git push
 ### 2024
 
 Monday - 01/01 - Tasks (12/13) = 92%  
+Tuesday - 02/01 - Tasks (12/14) = 86%  
+
 
 
 ---
