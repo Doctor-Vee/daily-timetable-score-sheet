@@ -36,6 +36,13 @@ Thursday - 25/01 - Tasks (11/13) = 85%
 Friday - 26/01 - Tasks (13/15) = 87%  
 Saturday - 27/01 - Tasks (10/11) = 91%  
 Sunday - 28/01 - Tasks (12/12) = 100%  
+#### Monday - 29/01 <--> Thursday - 08/02 - PREPARATION FOR WEDDING
+#### Friday - 09/02 - TRADITIONAL WEDDING
+#### Saturday - 10/02 - CHURCH WEDDING
+#### Sunday - 11/02 <--> 25/02 - HONEY MOON
+Monday - 26/02 - Tasks (12/14) = 86%  
+
+
 
 
 ---
