@@ -42,6 +42,8 @@ Sunday - 28/01 - Tasks (12/12) = 100%
 #### Sunday - 11/02 <--> 25/02 - HONEY MOON
 Monday - 26/02 - Tasks (12/14) = 86%  
 Tuesday - 27/02 - Tasks (14/15) = 93%  
+Wednesday - 28/02 - Tasks (13/15) = 87%  
+
 
 
 
