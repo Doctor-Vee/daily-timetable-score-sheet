@@ -61,6 +61,8 @@ Thursday - 14/03 - Tasks (12/14) = 86%
 Friday - 15/03 - Tasks (12/14) = 86%  
 Saturday - 16/03 - Tasks (9/10) = 90%  
 Sunday - 17/03 - Tasks (9/10) = 90%  
+Monday - 18/03 - Tasks (12/14) = 86%  
+
 
 
 ---
