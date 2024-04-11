@@ -73,6 +73,7 @@ Tuesday - 26/03 - Tasks (10/12) = 83%
 Wednesday - 27/03 - Tasks (10/12) = 83%  
 ###### Thursday - 28/03 <--> Tuesday - 02/04 - EASTER RETREAT & GCK
 Wednesday - 03/04 - Tasks (10/12) = 83%  
+Thursday - 04/04 - Tasks (12/14) = 86%  
 
 
 ---
