@@ -102,6 +102,10 @@ Monday - 29/04 - Tasks (12/14) = 86%
 Tuesday - 30/04 - Tasks (11/13) = 85%  
 Wednesday - 01/05 - Tasks (9/11) = 82%  
 Thursday - 02/05 - Tasks (12/14) = 86%  
+Friday - 03/05 - Tasks (12/14) = 86%  
+Saturday - 04/05 - Tasks (9/11) = 82%  
+Sunday - 05/05 - Tasks (9/10) = 90%  
+
 
 ---
 git add . && git commit -m ":sparkles: update-ish" && git push  
