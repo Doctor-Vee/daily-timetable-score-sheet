@@ -225,6 +225,7 @@ Friday - 30/08 - Tasks (12/12) = 100%
 Saturday - 31/08 - Tasks (11/12) = 92%  
 Sunday - 01/09 - Tasks (10/10) = 100%  
 Monday - 02/09 - Tasks (12/14) = 86%  
+Tuesday - 03/09 - Tasks (11/13) = 85%  
 
 
 ---
