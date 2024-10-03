@@ -251,6 +251,5 @@ Wednesday - 25/09 - Tasks (12/14) = 86%
 Thursday - 26/09 - Tasks (11/13) = 85%  
 
 
-
 ---
 git add . && git commit -m ":sparkles: update-ish" && git push  
