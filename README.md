@@ -290,6 +290,8 @@ Sunday - 03/11 - Tasks (13//13) = 100%
 #### Monday - 04/11 <--> Sunday - 10/11 - BIRTH OF CHARIS  
 Monday - 11/11 - Tasks (11/12) = 92%  
 Tuesday - 12/11 - Tasks (10/12) = 83%  
+Wednesday - 13/11 - Tasks (11/12) = 92%  
+
 
 ---
 git add . && git commit -m ":sparkles: update-ish" && git push  
