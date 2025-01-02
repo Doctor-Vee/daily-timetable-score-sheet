@@ -332,6 +332,8 @@ Saturday - 21/12 - Tasks (7/8) = 88%
 Sunday - 22/12 - Tasks (7/8) = 88%  
 Monday - 23/12 - Tasks (7/8) = 88%  
 Tuesday - 24/12 - Tasks (15/15) = 100%  
+Wednesday - 25/12 - Tasks (8/9) = 89%  
+Thursday - 26/12 - Tasks (11/12) = 92%  
 
 
 ---
