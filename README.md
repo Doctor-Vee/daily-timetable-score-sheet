@@ -6,6 +6,8 @@ This is simply a record-keeping repo for documenting the percentage completion f
 ### 2025
 
 Wednesday - 01/01 - Tasks (11/13) = 85%  
+Thursday - 02/01 - Tasks (12/14) = 86%  
+
 
 ---
 git add . && git commit -m ":sparkles: update-ish" && git push  
