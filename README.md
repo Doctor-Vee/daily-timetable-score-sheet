@@ -7,6 +7,7 @@ This is simply a record-keeping repo for documenting the percentage completion f
 
 Wednesday - 01/01 - Tasks (11/13) = 85%  
 Thursday - 02/01 - Tasks (12/14) = 86%  
+Friday - 03/01 - Tasks (11/13) = 85%  
 
 
 ---
