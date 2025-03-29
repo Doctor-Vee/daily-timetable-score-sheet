@@ -63,6 +63,8 @@ Monday - 24/02 - Tasks (11/13) = 85%
 Tuesday - 25/02 - Tasks (12/14) = 86%  
 Wednesday - 26/02 - Tasks (13/15) = 87%  
 Thursday - 27/02 - Tasks (12/14) = 86%  
+#### Friday - 28/02 <--> Thursday - 06/03 - The timetable sheets got missing in the process of relocating to Portugal
+Friday - 07/03 - Tasks (13/16) = 81%  
 
 
 ---
