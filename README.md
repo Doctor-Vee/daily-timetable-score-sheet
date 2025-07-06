@@ -174,6 +174,7 @@ Saturday - 21/06 - Tasks (9/11) = 82%
 Sunday - 22/06 - Tasks (8/9) = 89%  
 Monday - 23/06 - Tasks (11/13) = 85%  
 Tuesday - 24/06 - Tasks (11/13) = 85%  
+Wednesday - 25/06 - Tasks (12/14) = 86%  
 
 
 ---
