@@ -286,7 +286,8 @@ Saturday - 11/10 - Tasks (10/12) = 83%
 Sunday - 12/10 - Tasks (10/11) = 91%  
 #### Monday - 13/10 <--> Friday - 17/10 - The trip to Munich
 Saturday - 18/10 - Tasks (9/11) = 82%  
-
+Sunday - 19/10 - Tasks (9/11) = 82%  
+Monday - 20/10 - Tasks (11/13) = 85%  
 
 
 
