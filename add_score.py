@@ -48,7 +48,7 @@ def add_entry(score):
         content = f.read()
     
     # Find insertion point (before the git command section)
-    insert_pos = content.rfind('\n\n---\ngit add')
+    insert_pos = content.rfind('\n---\ngit add')
     if insert_pos == -1:
         insert_pos = len(content)
     
@@ -61,7 +61,7 @@ def add_entry(score):
     
     # Run git commands
     subprocess.run(['git', 'add', '.'])
-    subprocess.run(['git', 'commit', '-m', ':sparkles: update-ish'])
+    subprocess.run(['git', 'commit', '-m', ':sparkles: add score for the day'])
     subprocess.run(['git', 'push'])
 
 if __name__ == '__main__':

@@ -314,7 +314,6 @@ Wednesday - 12/11 - Tasks (12/14) = 86%
 Thursday - 13/11 - Tasks (12/14) = 86%  
 Friday - 14/11 - Tasks (9/11) = 82%  
 
-
 ---
 git add . && git commit -m ":sparkles: update-ish" && git push  
 python3 add_score.py x/y
