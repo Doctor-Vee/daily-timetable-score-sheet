@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from datetime import datetime, timedelta
 import re
+import subprocess
 
 def parse_last_entry(line):
     """Extract date from last entry line."""
@@ -57,6 +58,11 @@ def add_entry(score):
         f.write(new_content)
     
     print(f"✅ Added: {entry.strip()}")
+    
+    # Run git commands
+    subprocess.run(['git', 'add', '.'])
+    subprocess.run(['git', 'commit', '-m', ':sparkles: update-ish'])
+    subprocess.run(['git', 'push'])
 
 if __name__ == '__main__':
     import sys
