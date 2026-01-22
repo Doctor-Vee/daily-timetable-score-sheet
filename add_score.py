@@ -8,7 +8,7 @@ def parse_last_entry(line):
     match = re.search(r'(\d{2})/(\d{2})', line)
     if match:
         day, month = map(int, match.groups())
-        return datetime(2025, month, day)
+        return datetime(2026, month, day)
     return None
 
 def get_next_date(readme_path):
