@@ -9,6 +9,7 @@ This is simply a record-keeping repo for documenting the percentage completion f
 Thursday - 01/01 - Tasks (9/11) = 82%  
 Friday - 02/01 - Tasks (11/13) = 85%  
 Saturday - 03/01 - Tasks (10/12) = 83%  
+Sunday - 04/01 - Tasks (9/10) = 90%  
 
 ---
 git add . && git commit -m ":sparkles: update-ish" && git push  
