@@ -48,7 +48,7 @@ def add_entry(score):
         content = f.read()
     
     # Find insertion point (before the git command section)
-    insert_pos = content.rfind('\n---\ngit add')
+    insert_pos = content.rfind('\n---\nUsage')
     if insert_pos == -1:
         insert_pos = len(content)
     
