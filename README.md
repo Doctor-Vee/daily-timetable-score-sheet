@@ -14,3 +14,4 @@ Monday - 05/01 - Tasks (11/13) = 85%
 
 ---
 python3 add_score.py x/yTuesday - 06/01 - Tasks (12/14) = 86%  
+Tuesday - 06/01 - Tasks (12/14) = 86%  
