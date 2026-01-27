@@ -13,5 +13,5 @@ Sunday - 04/01 - Tasks (9/10) = 90%
 Monday - 05/01 - Tasks (11/13) = 85%  
 
 ---
+#### Run this line below replacing x and y with the corresponding values
 python3 add_score.py x/yTuesday - 06/01 - Tasks (12/14) = 86%  
-Tuesday - 06/01 - Tasks (12/14) = 86%  
