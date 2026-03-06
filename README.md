@@ -38,6 +38,7 @@ Thursday - 29/01 - Tasks (11/13) = 85%
 Friday - 30/01 - Tasks (11/13) = 85%  
 Saturday - 31/01 - Tasks (11/13) = 85%  
 Sunday - 01/02 - Tasks (9/10) = 90%  
+Monday - 02/02 - Tasks (11/13) = 85%  
 
 ---
 Usage:
