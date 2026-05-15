@@ -93,6 +93,7 @@ Wednesday - 25/03 - Tasks (11/13) = 85%
 Thursday - 26/03 - Tasks (11/13) = 85%  
 Friday - 27/03 - Tasks (11/13) = 85%  
 Saturday - 28/03 - Tasks (11/13) = 85%  
+Sunday - 29/03 - Tasks (10/10) = 100%  
 
 ---
 Usage:
