@@ -95,6 +95,9 @@ Friday - 27/03 - Tasks (11/13) = 85%
 Saturday - 28/03 - Tasks (11/13) = 85%  
 Sunday - 29/03 - Tasks (10/10) = 100%  
 Monday - 30/03 - Tasks (11/13) = 85%  
+#### Tuesday - 31/03 <--> Wednesday - 01/04 - Vacation in Guarda
+Wednesday - 02/04 - Tasks (7/8) = 88%  
+Friday - 03/04 - Tasks (8/9) = 89%  
 
 ---
 Usage:
