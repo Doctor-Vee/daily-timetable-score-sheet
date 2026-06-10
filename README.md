@@ -115,6 +115,9 @@ Friday - 17/04 - Tasks (10/12) = 83%
 Saturday - 18/04 - Tasks (9/11) = 82%  
 Sunday - 19/04 - Tasks (9/10) = 90%  
 Monday - 20/04 - Tasks (11/11) = 100%  
+#### Tuesday - 21/04 <--> Thursday - 23/04 - Conference in Cologne
+
+Tuesday - 21/04 - Tasks (9/9) = 100%  
 
 ---
 Usage:
