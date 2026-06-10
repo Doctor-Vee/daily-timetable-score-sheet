@@ -114,6 +114,7 @@ Thursday - 16/04 - Tasks (11/13) = 85%
 Friday - 17/04 - Tasks (10/12) = 83%  
 Saturday - 18/04 - Tasks (9/11) = 82%  
 Sunday - 19/04 - Tasks (9/10) = 90%  
+Monday - 20/04 - Tasks (11/11) = 100%  
 
 ---
 Usage:
