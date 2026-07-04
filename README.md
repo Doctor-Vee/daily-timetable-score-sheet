@@ -136,7 +136,7 @@ Sunday - 10/05 - Tasks (9/10) = 90%
 Monday - 11/05 - Tasks (11/13) = 85%  
 Tuesday - 12/05 - Tasks (11/13) = 85%  
 Wednesday - 13/05 - Tasks (12/14) = 86%  
-Thursday - 14/05 - Tasks (13/16) = 81%  
+Thursday - 14/05 - Tasks (13/15) = 87%  
 
 ---
 Usage:
