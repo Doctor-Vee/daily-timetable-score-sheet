@@ -148,6 +148,7 @@ Friday - 22/05 - Tasks (10/12) = 83%
 Saturday - 23/05 - Tasks (9/11) = 82%  
 Sunday - 24/05 - Tasks (10/12) = 83%  
 Monday - 25/05 - Tasks (11/13) = 85%  
+Tuesday - 26/05 - Tasks (10/10) = 100%  
 
 ---
 Usage:
