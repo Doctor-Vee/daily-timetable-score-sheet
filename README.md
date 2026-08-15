@@ -181,7 +181,7 @@ Wednesday - 24/06 - Tasks (12/14) = 86%
 Thursday - 25/06 - Tasks (12/14) = 86%  
 Friday - 26/06 - Tasks (12/14) = 86%  
 Saturday - 27/06 - Tasks (9/11) = 82%  
-Sunday - 28/06 - Tasks (10/12) = 83%  
+Sunday - 28/06 - Tasks (10/10) = 100%  
 
 ---
 Usage:
