@@ -203,7 +203,11 @@ Thursday - 16/07 - Tasks (11/13) = 85%
 Friday - 17/07 - Tasks (10/12) = 83%  
 Saturday - 18/07 - Tasks (9/11) = 82%  
 Sunday - 19/07 - Tasks (9/11) = 82%  
-Monday - 20/07 - Tasks (10/12) = 83%  
+Monday - 20/07 - Tasks (11/12) = 92%  
+#### Tuesday - 21/07 <--> Friday - 24/07 - Porto Trip
+Saturday - 25/07 - Tasks (15/15) = 100%  
+
+Sunday - 26/07 - Tasks (9/11) = 82%  
 
 ---
 Usage:
