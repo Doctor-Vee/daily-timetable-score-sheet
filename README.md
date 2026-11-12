@@ -254,6 +254,7 @@ Tuesday - 08/09 - Tasks (10/11) = 91%
 Wednesday - 09/09 - Tasks (9/10) = 90%  
 Thursday - 10/09 - Tasks (10/12) = 83%  
 Friday - 11/09 - Tasks (9/10) = 90%  
+Saturday - 12/09 - Tasks (13/13) = 100%  
 
 ---
 Usage:
